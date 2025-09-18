@@ -1,0 +1,6 @@
+Hermione Granger
+90 85 100
+Harry Potter
+70 80 95
+Ron Weasley
+55 65 73

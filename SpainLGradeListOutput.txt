@@ -1,0 +1,4 @@
+Name                  Test 1  Test 2  Test 3  Test Avg
+Hermione Granger       90.00   85.00  100.00     91.67
+Harry Potter           70.00   80.00   95.00     81.67
+Ron Weasley            55.00   65.00   73.00     64.33
